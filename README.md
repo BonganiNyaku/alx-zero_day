@@ -1,2 +1,1 @@
-# My first readme
-Starting my journey
+My first readme
